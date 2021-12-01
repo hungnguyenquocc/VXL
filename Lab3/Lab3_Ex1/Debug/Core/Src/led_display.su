@@ -1,0 +1,4 @@
+led_display.c:2:6:display_7Seg1	32	static
+led_display.c:19:6:display_7Seg2	24	static
+led_display.c:33:6:displaySingleLed	16	static
+led_display.c:76:6:reset_12LED	8	static
